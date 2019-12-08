@@ -1,0 +1,26 @@
+.note-container{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.note-title{
+    text-align: center;
+    margin-bottom:10px;
+    color:white;
+}
+
+.note-content{
+    width:400px;
+    height:120px;
+}
+
+.note-btn{
+    width: 150px;
+    height: 30px;
+    font-size: 14px;
+    margin-top: 10px;
+    font-family: monospace;
+    background-color: #f3f3f3;
+    background-color: white;
+}

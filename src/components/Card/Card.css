@@ -1,0 +1,11 @@
+.card-container{
+    padding:5px;
+    background-color:white;
+    margin:5px;
+    border-radius: 7px;
+    
+}
+
+.card-title{
+    text-align: center;
+}

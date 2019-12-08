@@ -1,0 +1,17 @@
+#root{
+    width: 100%;
+    height:100vh;
+}
+
+.main-container{
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #0d1425e0;
+    padding:5px;
+}
+
+body{
+    margin:0px;
+}
